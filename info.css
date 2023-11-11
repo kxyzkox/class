@@ -179,7 +179,7 @@ body{
   text-align: center;
   color: #6b6b6b;
   font-weight: bold;
-  font-size: 19px;
+  font-size: 9px;
 }
 .message_content_container{
   width: 100%;
@@ -191,7 +191,7 @@ body{
 .message_content{
   text-align: center;
   font-weight: normal;
-  font-size: 24px;
+  font-size: 14px;
   margin-top: 5px;
 }
 
