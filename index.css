@@ -113,7 +113,7 @@ body{
 }
 
 #chat_container{
-  width: 100%;
+  width: 40%;
   height: 450px;
 
   display: flex;
@@ -128,7 +128,7 @@ body{
 }
 #chat_inner_container{
   margin-left: 0px;
-  width: 100%;
+  width: 40%;
   height: 100%;
 }
 #chat_content_container{
