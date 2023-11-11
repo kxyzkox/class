@@ -194,6 +194,7 @@ body{
   text-decoration: underline;
 }
 .message_container{
+  text-align: left;
   width: 100%;
   display: inline-block;
   margin-bottom: 20px;
@@ -210,6 +211,7 @@ body{
   display: inline-block;
 }
 .message_user{
+  text-align: left;
   font-weight: bold;
   font-size: 14px;
 }
@@ -221,6 +223,7 @@ body{
   word-wrap: break-word;
 }
 .message_content{
+  text-align: left;
   font-weight: normal;
   font-size: 14px;
   margin-top: 5px;
