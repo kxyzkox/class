@@ -81,8 +81,8 @@ body{
 }
 
 #chat_container{
-  width: 100%;
-  height: 450px;
+  width: 60%;
+  height: 40px;
 
   display: flex;
   justify-content: center;
@@ -119,7 +119,7 @@ body{
   margin-top: 10px;
 }
 #chat_input{
-  width: 95%;
+  width: 60%;
   height: 100%;
   float: left;
   background-color: Transparent;
