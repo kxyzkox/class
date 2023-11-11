@@ -41,7 +41,7 @@ window.onload = function() {
 
       var title = document.createElement('h1')
       title.setAttribute('id', 'title')
-      title.textContent = 'KLASA ADMIN PANEL'
+      title.textContent = 'chat klasowy'
 
       title_inner_container.append(title)
       title_container.append(title_inner_container)
