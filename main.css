@@ -22,8 +22,8 @@ body{
   height: 200px;
 
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
 
   float: left;
   margin-top: 80px;
@@ -38,8 +38,8 @@ body{
   height: 50px;
 
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
 
   float: left;
 }
@@ -51,7 +51,7 @@ body{
   font-family: Varela Round;
   font-size: 15px;
   font-weight: bold;
-  text-align: center;
+  text-align: left;
   background-color: Transparent;
   border-bottom: 2px dashed #ffffff;
 
@@ -64,8 +64,8 @@ body{
   height: 50px;
 
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
 
   float: left;
 }
@@ -76,16 +76,16 @@ body{
   font-family: Varela Round;
   font-size: 15px;
   font-weight: bold;
-  text-align: center;
+  text-align: left;
   color: #fff;
 }
 
 #chat_container{
-  width: 100%;
+  width: 60%;
   height: 50px;
 
   display: flex;
-  justify-content: center;
+  justify-content: left;
 
   float: left;
   margin-top: 40px;
@@ -149,8 +149,8 @@ body{
   display: inline-block;
 
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
 
   margin-top: 20px;
 }
