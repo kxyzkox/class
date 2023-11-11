@@ -143,7 +143,7 @@ body{
   padding-right: 15px;
 }
 #chat_input_container{
-  width: 100%;
+  width: 60%;
   height: 10%;
 
   float: center;
@@ -156,7 +156,7 @@ body{
   margin-top: 10px;
 }
 #chat_input{
-  width: 95%;
+  width: 60%;
   height: 100%;
   float: left;
   background-color: Transparent;
